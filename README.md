@@ -17,6 +17,7 @@ Torch is the successor to SE Server Extender and gives server admins the tools t
 * Get the latest Torch release here: https://github.com/TorchAPI/Torch/releases
 * Unzip the Torch release into its own directory and run the executable. It will automatically download the SE DS and generate the other necessary files.
   - If you already have a DS installed you can unzip the Torch files into the folder that contains the DedicatedServer64 folder.
+* Download and install the latest staging version of Jenkins here: <Insert Link>
 
 ## Torch.Client
 * An optional client-side version of Torch. More documentation to come.
